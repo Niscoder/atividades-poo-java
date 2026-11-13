@@ -16,6 +16,7 @@ Atividades desenvolvidas nas aulas de POO. Cada pacote em `src/` é uma atividad
 | `AT_13` | Tratamento de exceções e exceção personalizada | `ContaBancaria`, `SaldoInsuficienteException` |
 | `AT_15` | Classes abstratas + interfaces | `MaterialBiblioteca`, `Livro`, `Emprestavel` |
 | `AT_17` | Arrays simples: cadastro, resumo e busca de notas | `Main` |
+| `AT_18` | Enumerações (`enum`): switch, construtor e estado | `CorSemaforo`, `PrioridadeChamado`, `SituacaoLivro`, `Livro` |
 
 ## Como executar
 
